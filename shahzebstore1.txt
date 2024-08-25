@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shahzaib Store</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Shahzaib Store</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#shoes">Shoes</a></li>
+                <li><a href="#shirts">Shirts</a></li>
+                <li><a href="#accessories">Accessories</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home">
+        <h2>Our Top Products</h2>
+        <p>Discover the latest trends and best deals on shoes, shirts, and accessories!</p>
+    </section>
+
+    <!-- Shoes Section -->
+    <section id="shoes">
+        <h2>Shoes</h2>
+        <div class="product">
+            <img src="shoe1.jpg" alt="Running Shoes">
+            <h3>Running Shoes</h3>
+            <p>High-quality running shoes for all terrains.</p>
+            <p>Price: $80</p>
+        </div>
+        <div class="product">
+            <img src="shoe2.jpg" alt="Casual Sneakers">
+            <h3>Casual Sneakers</h3>
+            <p>Comfortable sneakers for everyday wear.</p>
+            <p>Price: $60</p>
+        </div>
+        <!-- Add more shoe products as needed -->
+    </section>
+
+    <!-- Shirts Section -->
+    <section id="shirts">
+        <h2>Shirts</h2>
+        <div class="product">
+            <img src="shirt1.jpg" alt="Formal Shirt">
+            <h3>Formal Shirt</h3>
+            <p>Elegant formal shirts for business and events.</p>
+            <p>Price: $40</p>
+        </div>
+        <div class="product">
+            <img src="shirt2.jpg" alt="Casual T-Shirt">
+            <h3>Casual T-Shirt</h3>
+            <p>Soft cotton t-shirts in various colors.</p>
+            <p>Price: $20</p>
+        </div>
+        <!-- Add more shirt products as needed -->
+    </section>
+
+    <!-- Accessories Section -->
+    <section id="accessories">
+        <h2>Accessories</h2>
+        <div class="product">
+            <img src="watch1.jpg" alt="Wrist Watch">
+            <h3>Wrist Watch</h3>
+            <p>Stylish wrist watches for every occasion.</p>
+            <p>Price: $120</p>
+        </div>
+        <div class="product">
+            <img src="belt1.jpg" alt="Leather Belt">
+            <h3>Leather Belt</h3>
+            <p>Durable leather belts in various sizes.</p>
+            <p>Price: $25</p>
+        </div>
+        <!-- Add more accessories products as needed -->
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions, please email us at <a href="mailto:info@shahzaibstore.com">info@shahzaibstore.com</a>.</p>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Shahzaib Store. All rights reserved.</p>
+    </footer>
+</body>
+</html>
